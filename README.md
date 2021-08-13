@@ -21,7 +21,7 @@ A website to find new camping grounds around the world and see what other people
 
 ## Description
 
-Yelpcamp is a website that allows users to discover new campgrounds and rate campgrounds they've visited. It has a clean and minimalistic interface which is user-friendly and easy to use. Users can look for campgrounds in a specific area by using the map feature, which lists all the campgrounds that have been rated. It allows users to leave reviews on other peoples campgrounds if they've visited them too. When reviewing a campground, the user can add more information on the campground such as images, pricing, location, name of the place, and a description. Altogether, Yelpcamp is simple, yet effective, website allowing users to look for new campgrounds, and see which one caters to their needs.
+Yelpcamp is a website that allows users to discover new campgrounds and rate campgrounds they've visited. It has a clean and minimalistic interface which is user-friendly and easy to use. Users can look for campgrounds in a specific area by using the map feature. It allows users to leave reviews on others campgrounds if they've visited them too. When reviewing a campground, the user can add more information on the campground such as images, pricing, location, name of the place, and a description. Altogether, Yelpcamp is simple, yet effective, website allowing users to find new campgrounds, and see which one caters to their needs.
 
 ## Illustrations
 

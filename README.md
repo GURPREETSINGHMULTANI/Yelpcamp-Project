@@ -3,7 +3,7 @@
 
 ![Website Preview](https://github.com/GURPREETSINGHMULTANI/Yelpcamp-Project/blob/master/Images/yelpcamp-personal-project.herokuapp.com_campgrounds.png?raw=true)
 
-A website to find new campgrounds at a specific location and see what other people have to say about them.
+A website to find new camping grounds around the world and see what other people have to say about them.
 
 ---
 
